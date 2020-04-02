@@ -1,1 +1,1 @@
-# INGBanking
+# Banking
